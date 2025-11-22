@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1e338c039ffd14113a739e9dac91e58515d66ebb9e2aa0000e937835f54a6635"
+hash = "0564a64dcb42a813295d899286c2898a28eadbc85e7fa9cab7499ad78f734992"
 
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
