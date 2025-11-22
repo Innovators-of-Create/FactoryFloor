@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MOD_LIST.md"
+hash = "f738b5b3c49b16ee65169a9adb17f74f27f8fe58e41ec91596fd85d7a25a3a8f"
+
+[[files]]
+file = "README.md"
+hash = "41362aaa91ec28216232c10b3553e0736a9c54e42b2682d63cd46843c3dd6ac6"
+
+[[files]]
 file = "icon.png"
 hash = "e7f02c3e8c1e07790e5b7ab2482b94943474ddb4fabf54f8774d9e16d60a79f7"
 
