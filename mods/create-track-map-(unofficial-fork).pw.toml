@@ -1,0 +1,13 @@
+name = "Create: Track Map (UNOFFICIAL FORK)"
+filename = "create-track-map-2.0+mc1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHRXB9Bi/versions/IED8eUCw/create-track-map-2.0%2Bmc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "91c926d211c1fd527a8b3de5d2025a120434ecb5cd202ba95802b104ddb29af95b20f1d141efa6039ad7c8777f1998b4c8bd8acf83b1ff4fd9f78a18c2ee156d"
+
+[update]
+[update.modrinth]
+mod-id = "NHRXB9Bi"
+version = "IED8eUCw"

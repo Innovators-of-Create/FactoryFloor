@@ -1,0 +1,13 @@
+name = "Create-style Functional Storage"
+filename = "Create_style_Fuctional_Storage-1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ciZfAA3o/versions/ARCqDAb0/Create_style_Fuctional_Storage-1.0.2.zip"
+hash-format = "sha512"
+hash = "c5d0d4a0a87055642f5518ede884dd6989cfefe2f238a7805f056eb5c03424bde3d4ec332f5c48552d43a45bcdddb02141d7a0d8f4ef4cf0d38e5110f59c52e0"
+
+[update]
+[update.modrinth]
+mod-id = "ciZfAA3o"
+version = "ARCqDAb0"

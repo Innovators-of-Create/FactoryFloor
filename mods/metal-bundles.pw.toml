@@ -1,0 +1,13 @@
+name = "Metal Bundles"
+filename = "MetalBundles-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pY6oEMg/versions/mgj2i08c/MetalBundles-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "3291528322051c231c21521ee79081485fe332f03bd6b2011d167d2ed72026399939729df090e9ef4a154b67464cee1c5f546a53162f1a1cd3a6445fda99001c"
+
+[update]
+[update.modrinth]
+mod-id = "6pY6oEMg"
+version = "mgj2i08c"

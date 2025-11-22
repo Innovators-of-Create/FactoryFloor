@@ -1,0 +1,13 @@
+name = "Create: Ender Link"
+filename = "createenderlink-1.4.1+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjbTLY77/versions/M0PjrPHF/createenderlink-1.4.1%2Bmc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "a73bc147731260b9521eb42017c3b394b1bc4d4ba8aff69e73c2bf50c6282c807fbbb0da4355659f0914d892cdef688259d54762530154f59dcdbb2a94d6dd5e"
+
+[update]
+[update.modrinth]
+mod-id = "DjbTLY77"
+version = "M0PjrPHF"

@@ -1,0 +1,13 @@
+name = "Async"
+filename = "async-neoforge-0.1.8+alpha.1-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/jwAM414H/async-neoforge-0.1.8%2Balpha.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "bdbb01f56ec16255f3999180f63e9b84deb54f53977251f436f70a811aca983e437a97ff3bdfe9315c01077958a986da0f98088363d107c7e48a6ee0893dad4c"
+
+[update]
+[update.modrinth]
+mod-id = "vEC2jm6I"
+version = "jwAM414H"

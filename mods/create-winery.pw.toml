@@ -1,0 +1,13 @@
+name = "Create: Winery [Forge/NeoForge]"
+filename = "create_winery-1.8.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zBuk6egG/versions/GU1iFZOX/create_winery-1.8.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "783572e8b1a0117911ac46337f4ca4dfe97a3e58b66e6fbdfdc8898d16965487015626061dafedf87f359134db62ec2326ac1b199081a8ff77f4f390289d2732"
+
+[update]
+[update.modrinth]
+mod-id = "zBuk6egG"
+version = "GU1iFZOX"

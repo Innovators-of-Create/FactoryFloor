@@ -1,0 +1,13 @@
+name = "Fright's Delight"
+filename = "frightsdelight-neoforge-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/awWvXlb2/versions/rI9RhRy5/frightsdelight-neoforge-1.21.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "c00903e810e9c57f8e1e8b34c840a2214b0e60acdce839e6a0be92cd05fd1f839bf605f2befa8d2a913a622d9973bcfb882eed8b496c007a3739fcbeae8be71c"
+
+[update]
+[update.modrinth]
+mod-id = "awWvXlb2"
+version = "rI9RhRy5"

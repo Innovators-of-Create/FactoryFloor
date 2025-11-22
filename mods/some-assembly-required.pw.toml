@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "someassemblyrequired-5.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/n9HAyImn/someassemblyrequired-5.2.6.jar"
+hash-format = "sha512"
+hash = "4ea728490ea44146126c0e63019e3342b8f17c9305c8307563921ceeb54d1c6754b274bee179bfa21f5f4531caa1fa5c4a9eba588b3b7b837c968872aae51d3e"
+
+[update]
+[update.modrinth]
+mod-id = "jZi8ogTA"
+version = "n9HAyImn"

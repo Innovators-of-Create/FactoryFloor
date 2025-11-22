@@ -1,0 +1,13 @@
+name = "FastPBR"
+filename = "FastPBR_v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygChbn8J/versions/3MU1pMJY/FastPBR_v2.0.zip"
+hash-format = "sha512"
+hash = "ae4d111fc26df032a3f82c246e530cdf19367d04841dd899bd8c628a71be02efea5ad2b5341431f69c3759bfef7de468f93af378d1015bc949cdac4ef1906f1d"
+
+[update]
+[update.modrinth]
+mod-id = "ygChbn8J"
+version = "3MU1pMJY"

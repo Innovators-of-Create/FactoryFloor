@@ -1,0 +1,13 @@
+name = "Sneaky Curses"
+filename = "SneakyCurses-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TivKCwTx/versions/aEKGv39p/SneakyCurses-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "52a2efd2bde884753f39342e587cb6cc831897e69c71258eacfa4d1c55e4d3af6a45be9a71fd28e305a8d860865d582d026c7c18bd1c78546150eb5619ca239c"
+
+[update]
+[update.modrinth]
+mod-id = "TivKCwTx"
+version = "aEKGv39p"

@@ -1,0 +1,13 @@
+name = "ExtraDelight"
+filename = "extradelight-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yRrY3XII/versions/pfLIkGHE/extradelight-2.6.2.jar"
+hash-format = "sha512"
+hash = "7dc6f7dc00e635171943fceb0adea0a9e946c7e18b358a39320a3e1963b41025d59aea4d032fb24c866a39e59f18bfc9c646c3acfc4dcfc6a4b0d06d84adca3d"
+
+[update]
+[update.modrinth]
+mod-id = "yRrY3XII"
+version = "pfLIkGHE"

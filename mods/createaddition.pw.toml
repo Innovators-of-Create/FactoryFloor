@@ -1,0 +1,13 @@
+name = "Create Crafts & Additions"
+filename = "createaddition-1.5.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/cKTFwyEF/createaddition-1.5.8.jar"
+hash-format = "sha512"
+hash = "2b8d588669c4da12e125ba2c36cb9bdad7186cc0ce8f6552181d914f48cd53ccae37b373f941eff4987c9ea9d1e12db04d1b6a11118884b35c038c8f407d000d"
+
+[update]
+[update.modrinth]
+mod-id = "kU1G12Nn"
+version = "cKTFwyEF"

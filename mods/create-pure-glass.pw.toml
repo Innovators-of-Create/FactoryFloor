@@ -1,0 +1,13 @@
+name = "Create: Pure Glass"
+filename = "createpureglass-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5LllNPr8/versions/GsRIZFPs/createpureglass-1.0.0.jar"
+hash-format = "sha512"
+hash = "8a9168c77c0417197b26512ae7d84e0a0ef53ad72ca9a6809d3f2c6ad17d085fbbe0a6f75e271a22ce26b28dd1ab7ba4dafffe205bd3b4737d33e95e973414cf"
+
+[update]
+[update.modrinth]
+mod-id = "5LllNPr8"
+version = "GsRIZFPs"

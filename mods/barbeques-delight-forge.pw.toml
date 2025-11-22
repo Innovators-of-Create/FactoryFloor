@@ -1,0 +1,13 @@
+name = "Barbeque's Delight [Forge/NeoForge]"
+filename = "barbequesdelight-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rtu7uERF/versions/eS5ZBlEc/barbequesdelight-1.2.2.jar"
+hash-format = "sha512"
+hash = "5d0dfcf4892526043b0098ffff57beed2a21f06b7705ee95c470ec41f7f74bdde9111838675af2b51d4531d54cda54378fdb3fe654aef87ec705478555e13171"
+
+[update]
+[update.modrinth]
+mod-id = "rtu7uERF"
+version = "eS5ZBlEc"
