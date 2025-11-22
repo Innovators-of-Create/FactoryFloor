@@ -84,6 +84,7 @@
 <li><a href=https://modrinth.com/project/QdG47OkI>Model Gap Fix</a> - License: GPL-3.0-only Source: https://github.com/MehVahdJukaar/modefix-multi</li>
 <li><a href=https://modrinth.com/project/ZvaHbwoZ>Better Ping Display [Forge/NeoForge]</a> - License: MIT Source: https://github.com/vladmarica/better-ping-display</li>
 <li><a href=https://modrinth.com/project/DRKSn9G8>Create Drill Drain</a> - License: MIT Source: null</li>
+<li><a href=https://modrinth.com/project/u6dRKJwZ>Just Enough Items (JEI)</a> - License: MIT Source: https://github.com/mezz/JustEnoughItems</li>
 <li><a href=https://modrinth.com/project/sOekynIc>Create More: Pipe Bombs in Packages</a> - License: MIT Source: https://github.com/rekales/create-more-package-pipebomb</li>
 <li><a href=https://modrinth.com/project/Ua7DFN59>YUNG's API</a> - License: LGPL-3.0-only Source: https://github.com/YUNG-GANG/YUNGs-API</li>
 <li><a href=https://modrinth.com/project/Tl8ESrhX>TorchMaster</a> - License: MIT Source: https://github.com/Xalcon/TorchMaster</li>

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "9f2c6460701a19d4099d09e0c132219dc0c053ee9a770d6ba0595201ef802038"
+hash = "b52900315f009083b3079ce1b67b42c1945a8b12303620ca262044e884d52ee4"
 
 [[files]]
 file = "README.md"
-hash = "ceee10c17803c39c488bfc6a5fccea2e31ba964280c5155ffd149a77637287d0"
+hash = "756d62f0d0d6ac675ce22bd90b7eb588b7a836d4ddf0e7ecef2ae3fbcd530ad9"
 
 [[files]]
 file = "icon.png"
@@ -695,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1c409471400cd68f5105d87fa1fdf2ae71c1ad00934a2a306abffad60d1bf86f"
 metafile = true
 
 [[files]]

@@ -123,6 +123,7 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/QdG47OkI>Model Gap Fix</a></li>
 <li><a href=https://modrinth.com/project/ZvaHbwoZ>Better Ping Display [Forge/NeoForge]</a></li>
 <li><a href=https://modrinth.com/project/DRKSn9G8>Create Drill Drain</a></li>
+<li><a href=https://modrinth.com/project/u6dRKJwZ>Just Enough Items (JEI)</a></li>
 <li><a href=https://modrinth.com/project/sOekynIc>Create More: Pipe Bombs in Packages</a></li>
 <li><a href=https://modrinth.com/project/Ua7DFN59>YUNG's API</a></li>
 <li><a href=https://modrinth.com/project/Tl8ESrhX>TorchMaster</a></li>
