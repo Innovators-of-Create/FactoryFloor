@@ -5,7 +5,7 @@
 
 [![Available for NeoForge](https://raw.githubusercontent.com/Innovators-of-Create/FactoryFloor/7e9b56bba5cf5a206f7e50f029a1a64899519f68/assets/neoforge_64h.png)](https://modrinth.com/modpack/create-factory-floor/versions?l=neoforge)
 
-[![Chat with us on Discord](https://raw.githubusercontent.com/Innovators-of-Create/FactoryFloor/7e9b56bba5cf5a206f7e50f029a1a64899519f68/assets/discord-plural_64h.png)](https://discord.gg/qG2mtreUkk)
+[![Chat with us on Discord](https://raw.githubusercontent.com/Innovators-of-Create/FactoryFloor/7e9b56bba5cf5a206f7e50f029a1a64899519f68/assets/discord-plural_64h.png)](https://discord.gg/jq47BD9hS2)
 
 Create: Factory Floor is a Create-centric 1.21.1 modpack with numerous Create and Farmers' Delight add-ons mostly aimed at SMPs.
 
