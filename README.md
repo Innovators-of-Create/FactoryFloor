@@ -18,6 +18,7 @@ hello
 <li><a href=https://modrinth.com/project/PtjYWJkn>Sodium Extra</a></li>
 <li><a href=https://modrinth.com/project/9hx3AbJM>Easy Magic</a></li>
 <li><a href=https://modrinth.com/project/PxQSWIcD>Sodium Dynamic Lights</a></li>
+<li><a href=https://modrinth.com/project/66H5fc9R>Dyed Flames</a></li>
 <li><a href=https://modrinth.com/project/pzCY6C3e>Mindful Darkness</a></li>
 <li><a href=https://modrinth.com/project/UVtY3ZAC>Enchantment Descriptions</a></li>
 <li><a href=https://modrinth.com/project/vqqx0QiE>Sodium Extras</a></li>
@@ -167,6 +168,7 @@ hello
 <li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a></li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a></li>
 <li><a href=https://modrinth.com/project/foa4fGIH>Rustic Delight</a></li>
+<li><a href=https://modrinth.com/project/Kw73iLDq>Effect Insights</a></li>
 <li><a href=https://modrinth.com/project/FsoeTIV0>Fast Item Frames</a></li>
 <li><a href=https://modrinth.com/project/DzZWws4q>Climate Rivers</a></li>
 <li><a href=https://modrinth.com/project/T8Fpxcl7>Too Many Paintings!</a></li>

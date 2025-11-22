@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "f738b5b3c49b16ee65169a9adb17f74f27f8fe58e41ec91596fd85d7a25a3a8f"
+hash = "56615091b70d9aafc66af3e0d51c04e2457a8e6bd47e46b47337edf2be2dab93"
 
 [[files]]
 file = "README.md"
-hash = "41362aaa91ec28216232c10b3553e0736a9c54e42b2682d63cd46843c3dd6ac6"
+hash = "83ccfc86e189e72d30ddf23de671f8062878e98e5b3c2ea3d1d0350946db720a"
 
 [[files]]
 file = "icon.png"
@@ -498,6 +498,11 @@ hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
+file = "mods/dyed-flames.pw.toml"
+hash = "e639795ef008287a2e8848d0ef30fe14cc67eb5eca7b7ad8dac5811c69a04393"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
@@ -515,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6424e91859f327b6c7b27ec835ad2b00f81926e83116c78a098a95731c594889"
+metafile = true
+
+[[files]]
+file = "mods/effect-insights.pw.toml"
+hash = "e5b6e0e69276f5dcc5adb13db923679b6f2a4ccc3cf828f3adff24e4308db307"
 metafile = true
 
 [[files]]

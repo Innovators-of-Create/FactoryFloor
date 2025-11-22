@@ -5,6 +5,7 @@
 <li><a href=https://modrinth.com/project/PtjYWJkn>Sodium Extra</a> - License: LGPL-3.0-only Source: https://github.com/FlashyReese/sodium-extra-fabric</li>
 <li><a href=https://modrinth.com/project/9hx3AbJM>Easy Magic</a> - License: MPL-2.0 Source: https://github.com/Fuzss/easymagic</li>
 <li><a href=https://modrinth.com/project/PxQSWIcD>Sodium Dynamic Lights</a> - License: MIT Source: https://github.com/txnimc/SodiumDynamicLights</li>
+<li><a href=https://modrinth.com/project/66H5fc9R>Dyed Flames</a> - License: MPL-2.0 Source: https://github.com/Fuzss/dyedflames</li>
 <li><a href=https://modrinth.com/project/pzCY6C3e>Mindful Darkness</a> - License: MPL-2.0 Source: https://github.com/Fuzss/mindfuldarkness</li>
 <li><a href=https://modrinth.com/project/UVtY3ZAC>Enchantment Descriptions</a> - License: LGPL-2.1-only Source: https://github.com/Darkhax-Minecraft/Enchantment-Descriptions</li>
 <li><a href=https://modrinth.com/project/vqqx0QiE>Sodium Extras</a> - License: LGPL-3.0-only Source: https://github.com/txnimc/SodiumExtras</li>
@@ -154,6 +155,7 @@
 <li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a> - License: CC-BY-NC-SA-4.0 Source: https://github.com/Lance5057/ExtraDelight</li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a> - License: Apache-2.0 Source: https://github.com/Sinytra/ForgifiedFabricAPI</li>
 <li><a href=https://modrinth.com/project/foa4fGIH>Rustic Delight</a> - License: MIT Source: https://github.com/PhantomWing/RusticDelight</li>
+<li><a href=https://modrinth.com/project/Kw73iLDq>Effect Insights</a> - License: MPL-2.0 Source: https://github.com/Fuzss/effectinsights</li>
 <li><a href=https://modrinth.com/project/FsoeTIV0>Fast Item Frames</a> - License: MPL-2.0 Source: https://github.com/Fuzss/fastitemframes</li>
 <li><a href=https://modrinth.com/project/DzZWws4q>Climate Rivers</a> - License: MPL-2.0 Source: https://github.com/Fuzss/climaterivers</li>
 <li><a href=https://modrinth.com/project/T8Fpxcl7>Too Many Paintings!</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
