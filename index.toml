@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "56615091b70d9aafc66af3e0d51c04e2457a8e6bd47e46b47337edf2be2dab93"
+hash = "9f2c6460701a19d4099d09e0c132219dc0c053ee9a770d6ba0595201ef802038"
 
 [[files]]
 file = "README.md"
-hash = "4fb3edb977f427b8a957ec76b45a3fc0e02ebe710ca29c01e83b3ea2aae3e8af"
+hash = "ceee10c17803c39c488bfc6a5fccea2e31ba964280c5155ffd149a77637287d0"
 
 [[files]]
 file = "icon.png"
@@ -855,11 +855,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
-metafile = true
-
-[[files]]
-file = "mods/packwiz-server-updater.pw.toml"
-hash = "52e759f5dd318b47cf4eb094278a89d6a3d9b611e0b80f11c79a3cafd5e07bed"
 metafile = true
 
 [[files]]

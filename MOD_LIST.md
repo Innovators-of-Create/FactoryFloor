@@ -69,7 +69,6 @@
 <li><a href=https://modrinth.com/project/Wb5oqrBJ>Chat Heads</a> - License: MPL-2.0 Source: https://github.com/dzwdz/chat_heads</li>
 <li><a href=https://modrinth.com/project/6e2SlzR4>Create: Garnished</a> - License: MIT Source: https://github.com/DakotaPride/create-garnished</li>
 <li><a href=https://modrinth.com/project/hIu9KJTT>Brewin' And Chewin'</a> - License: MIT Source: https://github.com/MerchantCalico/BrewinAndChewin/</li>
-<li><a href=https://modrinth.com/project/gJUTDRJj>Packwiz Server Updater</a> - License: MIT Source: https://github.com/The-Tiny-Taters/packwiz-server-updater</li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a> - License: Apache-2.0 Source: https://github.com/PedroRok/CreateHypertubes</li>
 <li><a href=https://modrinth.com/project/rtu7uERF>Barbeque's Delight [Forge/NeoForge]</a> - License: MIT Source: https://github.com/Minecraft-LightLand/BarbequesDelight</li>
 <li><a href=https://modrinth.com/project/DFKpjlu6>Create: Synthetic Pressure</a> - License: MIT Source: null</li>

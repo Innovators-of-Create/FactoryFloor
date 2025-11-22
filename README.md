@@ -108,7 +108,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/Wb5oqrBJ>Chat Heads</a></li>
 <li><a href=https://modrinth.com/project/6e2SlzR4>Create: Garnished</a></li>
 <li><a href=https://modrinth.com/project/hIu9KJTT>Brewin' And Chewin'</a></li>
-<li><a href=https://modrinth.com/project/gJUTDRJj>Packwiz Server Updater</a></li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a></li>
 <li><a href=https://modrinth.com/project/rtu7uERF>Barbeque's Delight [Forge/NeoForge]</a></li>
 <li><a href=https://modrinth.com/project/DFKpjlu6>Create: Synthetic Pressure</a></li>
