@@ -1,6 +1,6 @@
 name = "Just Enough Items (JEI)"
 filename = "jei-1.21.1-neoforge-19.25.1.328.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/exx7mr1K/jei-1.21.1-neoforge-19.25.1.328.jar"
