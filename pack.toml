@@ -1,12 +1,12 @@
 name = "Create: Factory Floor"
 author = "https://github.com/Innovators-of-Create"
-version = "1.0.5-dev"
+version = "1.0.6-dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7a93a983b9e8c0a7afe3220a1df8a587985c76198e7fc24cfa283a690dfc75f"
+hash = "1f74a96e3261fb7dfbaca0c50cac3b6c8695498186e3b9ea06654a39e87e36d7"
 
 [versions]
 minecraft = "1.21.1"
