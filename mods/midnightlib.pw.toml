@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-1.7.5-neoforge+1.21.1.jar"
+filename = "midnightlib-neoforge-1.9.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/HIlaYrgj/midnightlib-1.7.5-neoforge%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/Puk24qHu/midnightlib-neoforge-1.9.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "8471ce6c8124c80164e46868bd6984f467291a5bdf883b271b261f712a204b2121073756fe9f54adc6b87b86bc5e2208121cc759242e31f37d97e54d46b263ba"
+hash = "52c205e04f879cdb6451b2aff9856f6541ce98367967949f4e77a6580304587577059bea72e5f8ba69b040c673d8a7966f706269b180b8b33946522b41f2c369"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "HIlaYrgj"
+version = "Puk24qHu"
