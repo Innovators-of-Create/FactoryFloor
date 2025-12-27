@@ -1,0 +1,13 @@
+name = "Nvidium (Neoforge) UNOFFICIAL"
+filename = "nvidium-NEOFORGE-[UNOFFICIAL]+1.21-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUMlOTxJ/versions/yQUX44ky/nvidium-NEOFORGE-%5BUNOFFICIAL%5D%2B1.21-1.1.0.jar"
+hash-format = "sha512"
+hash = "df442ebcd0c960a6c8f94146aaef4ba2a595062f599d139532df0b44d3158b1c09b7ab2c8ac77b459b31a027228806fe2ca6a24fb71e4cb8687824cc9786cf71"
+
+[update]
+[update.modrinth]
+mod-id = "CUMlOTxJ"
+version = "yQUX44ky"

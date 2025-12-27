@@ -1,0 +1,13 @@
+name = "Dimensional Threading Reforked"
+filename = "dimthread-NEOFORGE-mc1.21.1-v1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V92cR3aK/versions/DejTnUIX/dimthread-NEOFORGE-mc1.21.1-v1.2.1.jar"
+hash-format = "sha512"
+hash = "2b61adfbb409ab0f76eb4dd2cbef1448e062248edf8c7893d75b9dd20fc64eede10ea26de8dd707b903baf74104f803b476decfd6260e70fc1f2b18fb1bd3193"
+
+[update]
+[update.modrinth]
+mod-id = "V92cR3aK"
+version = "DejTnUIX"

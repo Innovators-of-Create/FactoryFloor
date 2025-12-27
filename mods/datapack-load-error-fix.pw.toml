@@ -1,0 +1,13 @@
+name = "Datapack Load Error Fix"
+filename = "datapackloaderrorfix-neoforge-1.21.x-3329c74.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQ28o2i/versions/17Shntzv/datapackloaderrorfix-neoforge-1.21.x-3329c74.jar"
+hash-format = "sha512"
+hash = "8d27b382fb1950f8abc57a535828d6abf0f3506bd7fac626aaf432cf72715b7115329d039442669a646acebc8362ed7486c07adcc5f372519abb1416a952e27a"
+
+[update]
+[update.modrinth]
+mod-id = "nvQ28o2i"
+version = "17Shntzv"
