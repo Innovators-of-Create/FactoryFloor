@@ -247,7 +247,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/FsoeTIV0>Fast Item Frames</a></li>
 <li><a href=https://modrinth.com/project/DzZWws4q>Climate Rivers</a></li>
 <li><a href=https://modrinth.com/project/T8Fpxcl7>Too Many Paintings!</a></li>
-<li><a href=https://modrinth.com/project/ndHYMY2K>Iris & Oculus Flywheel Compat</a></li>
 <li><a href=https://modrinth.com/project/OZBR5JT5>Easy Anvils</a></li>
 <li><a href=https://modrinth.com/project/x49wilh8>Create: Design n' Decor</a></li>
 <li><a href=https://modrinth.com/project/ordsPcFz>Kotlin for Forge</a></li>

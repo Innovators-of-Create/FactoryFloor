@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "b5926c0b68ec79414de2054aa2b11754e52fa2323d8d677f3addae33316641e8"
+hash = "d1a518a267928dfd2c4938bc75ba1c163a4c703c1538056760405124cfe280f9"
 
 [[files]]
 file = "README.md"
-hash = "7353983768a97ce44d9d40123cd11d77b494b7d56ef2ab94c33da71dfd7ebb59"
+hash = "f8c54798ce1a06d90858c10d7a4d280670810b8f07343143ab174ad7d1b5de01"
 
 [[files]]
 file = "icon.png"
@@ -865,11 +865,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "67152bf7d125ace7baabebefe243a692a62d8a175ae060692ab728c820c4b283"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "fa909ffdc98d095e359ae92828c3cdda74c5cd6eff78b412ae36f1fcd555df81"
 metafile = true
 
 [[files]]

@@ -208,7 +208,6 @@
 <li><a href=https://modrinth.com/project/FsoeTIV0>Fast Item Frames</a> - License: MPL-2.0 Source: https://github.com/Fuzss/fastitemframes</li>
 <li><a href=https://modrinth.com/project/DzZWws4q>Climate Rivers</a> - License: MPL-2.0 Source: https://github.com/Fuzss/climaterivers</li>
 <li><a href=https://modrinth.com/project/T8Fpxcl7>Too Many Paintings!</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
-<li><a href=https://modrinth.com/project/ndHYMY2K>Iris & Oculus Flywheel Compat</a> - License: CC0-1.0 Source: https://github.com/leon-o/iris-flw-compat</li>
 <li><a href=https://modrinth.com/project/OZBR5JT5>Easy Anvils</a> - License: MPL-2.0 Source: https://github.com/Fuzss/easyanvils</li>
 <li><a href=https://modrinth.com/project/x49wilh8>Create: Design n' Decor</a> - License: LicenseRef-MIT-Code-AND-ARR-Art Source: https://github.com/DrMango14/Create-Design-n-Decor</li>
 <li><a href=https://modrinth.com/project/ordsPcFz>Kotlin for Forge</a> - License: LGPL-2.1-only Source: https://github.com/thedarkcolour/KotlinForForge</li>
