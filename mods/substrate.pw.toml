@@ -1,0 +1,13 @@
+name = "Substrate"
+filename = "substrate-4.1-Beta.4+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNuzb72d/versions/FAro2mCN/substrate-4.1-Beta.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f93dc334406741c1befe27306280a3ec11050646048b7236d5f563138ac96f490a4a2b4ceb4cb368b5cc6255d9e8786f41afb28a0622d25f12891fde39df0e72"
+
+[update]
+[update.modrinth]
+mod-id = "zNuzb72d"
+version = "FAro2mCN"

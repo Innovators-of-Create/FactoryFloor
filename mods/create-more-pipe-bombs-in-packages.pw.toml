@@ -1,13 +1,13 @@
 name = "Create More: Pipe Bombs in Packages"
-filename = "cmpackagepipebomb-1.0.1.jar"
+filename = "cmpackagepipebomb-neoforge-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sOekynIc/versions/gsNS8VSw/cmpackagepipebomb-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/sOekynIc/versions/zA3ZOjJs/cmpackagepipebomb-neoforge-2.0.0.jar"
 hash-format = "sha512"
-hash = "7a1810a1c6f35870270646b62c297462e552c3ed4df550e18c3fabf40023bf519d237787cd134cc6dbedc24fe788448ec079a39122d56fed53e5be5ccef8460b"
+hash = "1e78b5c6a9b643849d4914c58d65e67ae0bd9769b84150e6876b638f0813b118714a6ead1e4525abf2460a8fb83a802a4bb10b26c6730bc8cb778c6332e0cc7e"
 
 [update]
 [update.modrinth]
 mod-id = "sOekynIc"
-version = "gsNS8VSw"
+version = "zA3ZOjJs"

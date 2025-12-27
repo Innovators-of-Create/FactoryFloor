@@ -1,13 +1,13 @@
 name = "Create: Ironworks [Forge/Fabric/NeoForge]"
-filename = "create_ironworks-4.0.0-neoforge-1.21.1.jar"
+filename = "create_ironworks-4.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FZb6dmQf/versions/zpFFZNIg/create_ironworks-4.0.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/FZb6dmQf/versions/dsVreLAC/create_ironworks-4.0.1-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "2c0f3373c65d9ef29c4ae79166580c7aad5a3d97035af560a4aa66684bf148e320dcb4b81b868271a4e2903a831934fb1694192d38510a6671e8b465575a4c47"
+hash = "1c438a349766b7d40b54c52ea0e653932e15b6ce2924b22b7af5152380aa35426c69b1a0eff118543ed4a486abf8f137e31dbaa0a641baaa13d2ec05bb52a41b"
 
 [update]
 [update.modrinth]
 mod-id = "FZb6dmQf"
-version = "zpFFZNIg"
+version = "dsVreLAC"

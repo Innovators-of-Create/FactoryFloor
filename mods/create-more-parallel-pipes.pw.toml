@@ -1,13 +1,13 @@
 name = "Create More: Parallel Pipes"
-filename = "cmparallelpipes-1.21.1-1.1.3.jar"
+filename = "cmparallelpipes-neoforge-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5jfUeix5/versions/SLrifFmr/cmparallelpipes-1.21.1-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/5jfUeix5/versions/aYrPugrv/cmparallelpipes-neoforge-2.0.2.jar"
 hash-format = "sha512"
-hash = "0a6497180a5a507a397391435a1667117e01e6ba277b76e2e44a01581c516eea22368a1115133a12e7741fa9fbb949f674b227d6cec7340c8d2dfd808f23b01e"
+hash = "1a08dba7a1cef3d9e4aedbdb3616eac6c1d2f0b3f77aa936c5a293e6099f40bb7805b1f53461feb9bd8a9196cf10dd8fbd27de35dd9fd5bc48a7a9de1158b072"
 
 [update]
 [update.modrinth]
 mod-id = "5jfUeix5"
-version = "SLrifFmr"
+version = "aYrPugrv"

@@ -1,0 +1,13 @@
+name = "Easy Auto Cycler"
+filename = "easyautocycler-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1k78Y2G/versions/ydlP5Xfb/easyautocycler-2.0.0.jar"
+hash-format = "sha512"
+hash = "8d895b0ec3607ffc4f158885c0c15b8d1c361e7504d9eaae742005ee581c120f479aae759c706e2196827665b738291974a3d258702cc0dd9024234292966579"
+
+[update]
+[update.modrinth]
+mod-id = "L1k78Y2G"
+version = "ydlP5Xfb"

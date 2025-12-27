@@ -1,0 +1,13 @@
+name = "Reflex AntiLag"
+filename = "reflex-neoforge-1.0.4+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WTVzusYD/versions/v9Dm4IoM/reflex-neoforge-1.0.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "0139d2a23eaeb014c27d0d9228a82cefe1c14d94f09ce489ec392d6453bbb772986fee2d93682c30bff1120a7bcc6a5b84f2ba42a99f021e899bd797f23b60df"
+
+[update]
+[update.modrinth]
+mod-id = "WTVzusYD"
+version = "v9Dm4IoM"

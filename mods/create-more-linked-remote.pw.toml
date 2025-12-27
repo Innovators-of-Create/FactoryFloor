@@ -1,13 +1,13 @@
 name = "Create More: Linked Remote"
-filename = "cmlinkedremote-1.1.1.jar"
+filename = "cmlinkedremote-neoforge-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4hoqvPkW/versions/EyQiRfhd/cmlinkedremote-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/4hoqvPkW/versions/NtJF029e/cmlinkedremote-neoforge-2.0.0.jar"
 hash-format = "sha512"
-hash = "f747ceb62f9e47eebbe6e90ad50e4715a0a387cb8ef1bb75681b72f12c8117b500f03ad46b965813cbdaa27d8a9d0aad8ce84427f4f886b3b086658bc649374c"
+hash = "cc923737f25d0e72a294c5d67bd75e95abe2f9d2d0e17fec0b1e4467c31f017fbdc185750e8b4605ca20115c64278c750e3f03a89dcdd432700e23ac23b5741c"
 
 [update]
 [update.modrinth]
 mod-id = "4hoqvPkW"
-version = "EyQiRfhd"
+version = "NtJF029e"

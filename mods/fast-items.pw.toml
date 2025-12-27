@@ -1,0 +1,13 @@
+name = "Fast Items"
+filename = "fastitems-neoforge-1.1.0-neoforge+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H80QSt2v/versions/aNSTW6yz/fastitems-neoforge-1.1.0-neoforge%2B1.21.jar"
+hash-format = "sha512"
+hash = "1953a5d61ec51b23620caaddc31689a8a004dce71626c87fbc3e7477f8fba008654b5528e60adf6d27e1dc2397434998d9c303857cf8b9b4e6084a28bc2cc806"
+
+[update]
+[update.modrinth]
+mod-id = "H80QSt2v"
+version = "aNSTW6yz"
