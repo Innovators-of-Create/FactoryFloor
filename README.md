@@ -76,7 +76,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/PzouXFuY>Create: Better Motors</a></li>
 <li><a href=https://modrinth.com/project/qRL8MwMB>Create: Delivery Director</a></li>
 <li><a href=https://modrinth.com/project/JWGBpFUP>Create: Enchantment Industry</a></li>
-<li><a href=https://modrinth.com/project/uCdwusMi>Distant Horizons</a></li>
 <li><a href=https://modrinth.com/project/kfqD1JRw>Visual Workbench</a></li>
 <li><a href=https://modrinth.com/project/WTVzusYD>Reflex AntiLag</a></li>
 <li><a href=https://modrinth.com/project/1VSGxqkt>Block Runner</a></li>
@@ -167,7 +166,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/L1k78Y2G>Easy Auto Cycler</a></li>
 <li><a href=https://modrinth.com/project/jmHEp0Dv>Sorted Enchantments</a></li>
 <li><a href=https://modrinth.com/project/YsFycamt>Resource Pack Overrides</a></li>
-<li><a href=https://modrinth.com/project/uEfK2CXF>Just Enough Resources (JER)</a></li>
 <li><a href=https://modrinth.com/project/9leXt4A5>MonoLib</a></li>
 <li><a href=https://modrinth.com/project/5IIKsxiL>Extreme sound muffler</a></li>
 <li><a href=https://modrinth.com/project/KPsw5jDu>Colorwheel Patcher</a></li>
@@ -253,7 +251,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/8YzB9eVH>Amplified Nether Height</a></li>
 <li><a href=https://modrinth.com/project/BVzZfTc1>[ETF] Entity Texture Features</a></li>
 <li><a href=https://modrinth.com/project/DjbTLY77>Create: Ender Link</a></li>
-<li><a href=https://modrinth.com/project/kB56GtWA>Just Enough Professions (JEP)</a></li>
 <li><a href=https://modrinth.com/project/mSQF1NpT>Elytra Slot</a></li>
 <li><a href=https://modrinth.com/project/2JAUNCL4>Falling Leaves (NeoForge/Forge)</a></li>
 <li><a href=https://modrinth.com/project/16DuAG4k>Create: Bitterballen</a></li>
@@ -298,7 +295,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/6xwxDTgf>Vanilla Backport</a></li>
 <li><a href=https://modrinth.com/project/twkfQtEc>Moonlight Lib</a></li>
 <li><a href=https://modrinth.com/project/WrpuIfhw>Corpse</a></li>
-<li><a href=https://modrinth.com/project/K0LQpdmm>Just Enough Archaeology</a></li>
 <li><a href=https://modrinth.com/project/ntMyNH8c>Mysterious Mountain Lib</a></li>
 <li><a href=https://modrinth.com/project/lhGA9TYQ>Architectury API</a></li>
 <li><a href=https://modrinth.com/project/uWrs8XlB>Create: Misc and Things</a></li>

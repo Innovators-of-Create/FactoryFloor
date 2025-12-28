@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "1528b0b0385035b8b6bd44fd07b445a948d5221c0acecec1e18c2d7fdae8fd8f"
+hash = "9c471419e424cb719eafd76f08ca8cdc6456b3a461cbd921213a085bda57f6bd"
 
 [[files]]
 file = "README.md"
-hash = "d6d868e136e18d28ccf955f459af973f0c22f6eb4cc13b193a2b6aa183705ff5"
+hash = "0e02f5e4c9427e77a5cbdd3dff82dcb5c33d08748a9af23b9dbc09c972b9fb31"
 
 [[files]]
 file = "icon.png"
@@ -583,11 +583,6 @@ hash = "a1a3d0ee9d63e183124e37abb009ad398064ff8268a68b40f836579774893f89"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
-metafile = true
-
-[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
@@ -880,21 +875,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "76a2d3da63cca1c74822e2cd9d366db071a382782c75f3b214e50e94dd36fd0a"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "ead018f3794f086abf4acb238c2f99abf465fc27f002483083ba5809e02afa54"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]

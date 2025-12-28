@@ -37,7 +37,6 @@
 <li><a href=https://modrinth.com/project/PzouXFuY>Create: Better Motors</a> - License: MIT Source: https://github.com/Reggarfgod/Create_Better_Motors</li>
 <li><a href=https://modrinth.com/project/qRL8MwMB>Create: Delivery Director</a> - License: MIT Source: https://github.com/LIUKRAST/DeliveryDirector/</li>
 <li><a href=https://modrinth.com/project/JWGBpFUP>Create: Enchantment Industry</a> - License: LGPL-3.0-or-later Source: https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry</li>
-<li><a href=https://modrinth.com/project/uCdwusMi>Distant Horizons</a> - License: LGPL-3.0-only Source: https://gitlab.com/distant-horizons-team/distant-horizons</li>
 <li><a href=https://modrinth.com/project/kfqD1JRw>Visual Workbench</a> - License: MPL-2.0 Source: https://github.com/Fuzss/visualworkbench</li>
 <li><a href=https://modrinth.com/project/WTVzusYD>Reflex AntiLag</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/Tythee/Minecraft-Reflex</li>
 <li><a href=https://modrinth.com/project/1VSGxqkt>Block Runner</a> - License: MPL-2.0 Source: https://github.com/Fuzss/blockrunner</li>
@@ -128,7 +127,6 @@
 <li><a href=https://modrinth.com/project/L1k78Y2G>Easy Auto Cycler</a> - License: MIT Source: https://github.com/Uncraftbar/Easy-Auto-Cycler</li>
 <li><a href=https://modrinth.com/project/jmHEp0Dv>Sorted Enchantments</a> - License: MIT Source: https://github.com/unilock/SortedEnchantments</li>
 <li><a href=https://modrinth.com/project/YsFycamt>Resource Pack Overrides</a> - License: MPL-2.0 Source: https://github.com/Fuzss/resourcepackoverrides</li>
-<li><a href=https://modrinth.com/project/uEfK2CXF>Just Enough Resources (JER)</a> - License: LicenseRef-Dont-Be-a-Jerk Source: https://github.com/way2muchnoise/JustEnoughResources</li>
 <li><a href=https://modrinth.com/project/9leXt4A5>MonoLib</a> - License: Unlicense Source: https://github.com/Mods-For-Lupin/Mono-Lib</li>
 <li><a href=https://modrinth.com/project/5IIKsxiL>Extreme sound muffler</a> - License: LGPL-3.0-only Source: https://github.com/LeoBeliik/ExtremeSoundMuffler</li>
 <li><a href=https://modrinth.com/project/KPsw5jDu>Colorwheel Patcher</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/djefrey/Colorwheel-Patcher</li>
@@ -214,7 +212,6 @@
 <li><a href=https://modrinth.com/project/8YzB9eVH>Amplified Nether Height</a> - License: MIT Source: null</li>
 <li><a href=https://modrinth.com/project/BVzZfTc1>[ETF] Entity Texture Features</a> - License: LGPL-3.0-only Source: https://github.com/Traben-0/Entity_Texture_Features</li>
 <li><a href=https://modrinth.com/project/DjbTLY77>Create: Ender Link</a> - License: MIT Source: https://github.com/cotrin8672/CreateEnderLink</li>
-<li><a href=https://modrinth.com/project/kB56GtWA>Just Enough Professions (JEP)</a> - License: MIT Source: https://github.com/Mrbysco/JustEnoughProfessions</li>
 <li><a href=https://modrinth.com/project/mSQF1NpT>Elytra Slot</a> - License: LGPL-3.0-or-later Source: https://github.com/illusivesoulworks/elytraslot</li>
 <li><a href=https://modrinth.com/project/2JAUNCL4>Falling Leaves (NeoForge/Forge)</a> - License: LGPL-3.0-only Source: https://github.com/Cheaterpaul/fallingleaves</li>
 <li><a href=https://modrinth.com/project/16DuAG4k>Create: Bitterballen</a> - License: MIT Source: https://github.com/pyzpre/Create-Bicycles-Bitterballen</li>
@@ -259,7 +256,6 @@
 <li><a href=https://modrinth.com/project/6xwxDTgf>Vanilla Backport</a> - License: MIT Source: https://github.com/ItsBlackGear/VanillaBackport</li>
 <li><a href=https://modrinth.com/project/twkfQtEc>Moonlight Lib</a> - License: LicenseRef-LGPL-with-additional-dependency-clause Source: https://github.com/MehVahdJukaar/Moonlight/tree/multi-loader</li>
 <li><a href=https://modrinth.com/project/WrpuIfhw>Corpse</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/henkelmax/corpse</li>
-<li><a href=https://modrinth.com/project/K0LQpdmm>Just Enough Archaeology</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/ntMyNH8c>Mysterious Mountain Lib</a> - License: MIT Source: https://github.com/0999312/MMLib</li>
 <li><a href=https://modrinth.com/project/lhGA9TYQ>Architectury API</a> - License: LGPL-3.0-only Source: https://github.com/architectury/architectury</li>
 <li><a href=https://modrinth.com/project/uWrs8XlB>Create: Misc and Things</a> - License: CC-BY-ND-4.0 Source: null</li>
