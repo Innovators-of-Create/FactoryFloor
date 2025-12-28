@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MOD_LIST.md"
-hash = "c64a21b704b04e9955b8083eebdb0a16f61663ae54502fd5ad29adb08b202dd8"
-
-[[files]]
-file = "README.md"
-hash = "11d33706d4a5b1219ab9996b15e9997a5e426b675194c2c29b919e677ff917f8"
-
-[[files]]
-file = "eula.txt"
-hash = "94169d86becdfccbb25ab7800c7ffec69aba470fbc1a7e4604e36833ab2eeb8f"
-
-[[files]]
 file = "icon.png"
 hash = "e7f02c3e8c1e07790e5b7ab2482b94943474ddb4fabf54f8774d9e16d60a79f7"
 
@@ -1332,10 +1320,6 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "0564a64dcb42a813295d899286c2898a28eadbc85e7fa9cab7499ad78f734992"
-
-[[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
 hash = "385d74d9bbe10278d86d09f4cc4bfe206da1d91bf53744260bba37d8cd8a20c8"
 metafile = true
@@ -1394,10 +1378,6 @@ metafile = true
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "d88dacad6b166ce9766867b4224aa175e55cfd75caad6a77f698abee8fec9d11"
 metafile = true
-
-[[files]]
-file = "server.properties"
-hash = "318746bf71332cda2d83f5e2429acdf0e3d85307eeafe83b46a1bb19e9ca4fa7"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
