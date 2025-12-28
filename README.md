@@ -55,7 +55,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/g1eaCZgs>Air Hop</a></li>
 <li><a href=https://modrinth.com/project/N9QToVpw>Create: Ultimate Factory</a></li>
 <li><a href=https://modrinth.com/project/Jdbbtt0i>Create: Numismatics</a></li>
-<li><a href=https://modrinth.com/project/uuVy6k1s>Create: Molten Vents</a></li>
 <li><a href=https://modrinth.com/project/YL57xq9U>Iris Shaders</a></li>
 <li><a href=https://modrinth.com/project/6vtFbyaJ>Sophisticated Storage in Motion</a></li>
 <li><a href=https://modrinth.com/project/yGttHo06>Create: Sound of Steam</a></li>
@@ -123,7 +122,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/9rlXSyLg>Crate Delight</a></li>
 <li><a href=https://modrinth.com/project/bN3xUWdo>Lodestone</a></li>
 <li><a href=https://modrinth.com/project/Wb5oqrBJ>Chat Heads</a></li>
-<li><a href=https://modrinth.com/project/6e2SlzR4>Create: Garnished</a></li>
 <li><a href=https://modrinth.com/project/hIu9KJTT>Brewin' And Chewin'</a></li>
 <li><a href=https://modrinth.com/project/knrLSB8n>Create: Deep Dark</a></li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a></li>
@@ -133,7 +131,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/xuDOzCLy>Jade Addons (Neo/Forge)</a></li>
 <li><a href=https://modrinth.com/project/5HUqEye3>VanillaIcecreamFix</a></li>
 <li><a href=https://modrinth.com/project/jv0UKGOX>Create: Big Contraptions</a></li>
-<li><a href=https://modrinth.com/project/zBuk6egG>Create: Winery</a></li>
 <li><a href=https://modrinth.com/project/hGAlcCDJ>Create Mechanical Extruder</a></li>
 <li><a href=https://modrinth.com/project/O53VhQoZ>My Nether's Delight</a></li>
 <li><a href=https://modrinth.com/project/RH2KUdKJ>OctoLib</a></li>
@@ -229,7 +226,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/hYykXjDp>Fzzy Config</a></li>
 <li><a href=https://modrinth.com/project/76TqKW7O>Create: Deepfried</a></li>
 <li><a href=https://modrinth.com/project/a1llHwl4>Copper Age Backport</a></li>
-<li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a></li>
 <li><a href=https://modrinth.com/project/j4ARnQwY>Create: Blocks & Bogies</a></li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a></li>
 <li><a href=https://modrinth.com/project/foa4fGIH>Rustic Delight</a></li>
@@ -285,7 +281,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/IavCsUgJ>Happy Ghasts Boost</a></li>
 <li><a href=https://modrinth.com/project/FTeXqI9v>Create: New Age</a></li>
 <li><a href=https://modrinth.com/project/XeEZ3fK2>Freecam</a></li>
-<li><a href=https://modrinth.com/project/2uEhdGKt>Ender's Delight</a></li>
 <li><a href=https://modrinth.com/project/s85zLEDe>Sophisticated Backpacks Create Integration</a></li>
 <li><a href=https://modrinth.com/project/e0M1UDsY>Collective</a></li>
 <li><a href=https://modrinth.com/project/K4Ytaql5>NoRollback</a></li>

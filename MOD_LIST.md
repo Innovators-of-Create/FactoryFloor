@@ -16,7 +16,6 @@
 <li><a href=https://modrinth.com/project/g1eaCZgs>Air Hop</a> - License: MPL-2.0 Source: https://github.com/Fuzss/airhop</li>
 <li><a href=https://modrinth.com/project/N9QToVpw>Create: Ultimate Factory</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/Jdbbtt0i>Create: Numismatics</a> - License: LGPL-3.0-only Source: https://github.com/Layers-of-Railways/CreateNumismatics</li>
-<li><a href=https://modrinth.com/project/uuVy6k1s>Create: Molten Vents</a> - License: MIT Source: https://github.com/Apothicon02/Create-Molten-Vents</li>
 <li><a href=https://modrinth.com/project/YL57xq9U>Iris Shaders</a> - License: LGPL-3.0-only Source: https://github.com/IrisShaders/Iris</li>
 <li><a href=https://modrinth.com/project/6vtFbyaJ>Sophisticated Storage in Motion</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/P3pp3rF1y/SophisticatedStorageInMotion</li>
 <li><a href=https://modrinth.com/project/yGttHo06>Create: Sound of Steam</a> - License: MIT Source: https://github.com/CSOS-Team/SoundOfSteam</li>
@@ -84,7 +83,6 @@
 <li><a href=https://modrinth.com/project/9rlXSyLg>Crate Delight</a> - License: MIT Source: https://github.com/axperty/cratedelight</li>
 <li><a href=https://modrinth.com/project/bN3xUWdo>Lodestone</a> - License: LGPL-3.0-only Source: https://github.com/LodestarMC/Lodestone</li>
 <li><a href=https://modrinth.com/project/Wb5oqrBJ>Chat Heads</a> - License: MPL-2.0 Source: https://github.com/dzwdz/chat_heads</li>
-<li><a href=https://modrinth.com/project/6e2SlzR4>Create: Garnished</a> - License: MIT Source: https://github.com/DakotaPride/create-garnished</li>
 <li><a href=https://modrinth.com/project/hIu9KJTT>Brewin' And Chewin'</a> - License: MIT Source: https://github.com/MerchantCalico/BrewinAndChewin/</li>
 <li><a href=https://modrinth.com/project/knrLSB8n>Create: Deep Dark</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a> - License: Apache-2.0 Source: https://github.com/PedroRok/CreateHypertubes</li>
@@ -94,7 +92,6 @@
 <li><a href=https://modrinth.com/project/xuDOzCLy>Jade Addons (Neo/Forge)</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/Snownee/JadeAddons</li>
 <li><a href=https://modrinth.com/project/5HUqEye3>VanillaIcecreamFix</a> - License: MIT Source: https://github.com/repletsin5/VanillaIcecreamFix</li>
 <li><a href=https://modrinth.com/project/jv0UKGOX>Create: Big Contraptions</a> - License: MIT Source: https://github.com/muriplz/createbigcontraptionsmultiloader</li>
-<li><a href=https://modrinth.com/project/zBuk6egG>Create: Winery</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/hGAlcCDJ>Create Mechanical Extruder</a> - License: LGPL-3.0-only Source: https://github.com/oierbravo/create-mechanical-extruder</li>
 <li><a href=https://modrinth.com/project/O53VhQoZ>My Nether's Delight</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/SoyTutta/MyNethersDelight</li>
 <li><a href=https://modrinth.com/project/RH2KUdKJ>OctoLib</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/Octo-Studios/octo-lib</li>
@@ -190,7 +187,6 @@
 <li><a href=https://modrinth.com/project/hYykXjDp>Fzzy Config</a> - License: LicenseRef-TDL-M Source: https://github.com/fzzyhmstrs/fconfig</li>
 <li><a href=https://modrinth.com/project/76TqKW7O>Create: Deepfried</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/a1llHwl4>Copper Age Backport</a> - License: MIT Source: https://github.com/Smallinger/Copper-Age-Backport</li>
-<li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a> - License: CC-BY-NC-SA-4.0 Source: https://github.com/Lance5057/ExtraDelight</li>
 <li><a href=https://modrinth.com/project/j4ARnQwY>Create: Blocks & Bogies</a> - License: MIT Source: https://github.com/WeidosOddities/Blocks-And-Bogies</li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a> - License: Apache-2.0 Source: https://github.com/Sinytra/ForgifiedFabricAPI</li>
 <li><a href=https://modrinth.com/project/foa4fGIH>Rustic Delight</a> - License: MIT Source: https://github.com/PhantomWing/RusticDelight</li>
@@ -246,7 +242,6 @@
 <li><a href=https://modrinth.com/project/IavCsUgJ>Happy Ghasts Boost</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/FTeXqI9v>Create: New Age</a> - License: BSD-3-Clause Source: https://gitlab.com/antarcticgardens/create-new-age</li>
 <li><a href=https://modrinth.com/project/XeEZ3fK2>Freecam</a> - License: MIT Source: https://github.com/hashalite/Freecam</li>
-<li><a href=https://modrinth.com/project/2uEhdGKt>Ender's Delight</a> - License: MIT Source: https://github.com/Ax3dGaming/EndersDelight/tree/master</li>
 <li><a href=https://modrinth.com/project/s85zLEDe>Sophisticated Backpacks Create Integration</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/P3pp3rF1y/SophisticatedBackpacksCreateIntegration</li>
 <li><a href=https://modrinth.com/project/e0M1UDsY>Collective</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/Serilum/Collective</li>
 <li><a href=https://modrinth.com/project/K4Ytaql5>NoRollback</a> - License: LGPL-3.0-only Source: null</li>

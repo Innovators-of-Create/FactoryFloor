@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "f9c7dcfd412cfc1f3590d67eb91456cf36450c3ebb20e4832b19a79cfff328f9"
+hash = "a33ad8419c53ff0f2c56861b682b76d9b46fa77f21cfd4f3f14f764229bdadef"
 
 [[files]]
 file = "README.md"
-hash = "8feb76acaceb145720d992b7c4d8817f6a2e52ce446f8b45bfbf228b9aa12b6d"
+hash = "844a994d1b44fcf1a9641fe0b684afbc159f9a3d6c2713ee9f04c95c15e588f4"
+
+[[files]]
+file = "eula.txt"
+hash = "94169d86becdfccbb25ab7800c7ffec69aba470fbc1a7e4604e36833ab2eeb8f"
 
 [[files]]
 file = "icon.png"
@@ -373,11 +377,6 @@ hash = "437e0fa400ed17c49a4afbae3dd5ccd42ae57a0a204e4614e9a4ac0148746c35"
 metafile = true
 
 [[files]]
-file = "mods/create-garnished.pw.toml"
-hash = "c858a76c62530e6620d028776b503e291890fce7540c3fdd6daf2bd2c54538ab"
-metafile = true
-
-[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "c218f11a134ff349836cf9d074851390d230a012c1cab77c862223c97910b68a"
 metafile = true
@@ -415,11 +414,6 @@ metafile = true
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "60d435672eff6b8abf4bd49a34ae9669b063d6ac110e61d5e183905d7fa45e3b"
-metafile = true
-
-[[files]]
-file = "mods/create-molten-vents.pw.toml"
-hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
@@ -515,11 +509,6 @@ metafile = true
 [[files]]
 file = "mods/create-waystones-recipes.pw.toml"
 hash = "556a6d6bbc2a5d1449fdbc09cef6ab7c776377cbe4b5fc7f47f885557f6522ec"
-metafile = true
-
-[[files]]
-file = "mods/create-winery.pw.toml"
-hash = "f02230518b35c4b3f08ecc1e66e0fde3df03ef3d4ce79b20b99ed2f7083b8683"
 metafile = true
 
 [[files]]
@@ -678,11 +667,6 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
-file = "mods/enders-delight.pw.toml"
-hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "774831f9dc9f530416b2d71ed08d52502dd6ccacbe4bd0d16adbf23701ce12bc"
 metafile = true
@@ -725,11 +709,6 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
-metafile = true
-
-[[files]]
-file = "mods/extradelight.pw.toml"
-hash = "21a13ecc5b34eea20774a1cdc1077f35258718c84e4ad3fb836662c805bf069e"
 metafile = true
 
 [[files]]
