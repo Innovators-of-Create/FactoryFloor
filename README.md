@@ -223,7 +223,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/TlQAWQCY>Create: Cyber Goggles</a></li>
 <li><a href=https://modrinth.com/project/dWU6xUnj>Create: Cardboarded Conveynience</a></li>
 <li><a href=https://modrinth.com/project/6FtRfnLg>Do a Barrel Roll</a></li>
-<li><a href=https://modrinth.com/project/BdlILXeV>Create: Currency Shops</a></li>
 <li><a href=https://modrinth.com/project/vvuO3ImH>Curios API</a></li>
 <li><a href=https://modrinth.com/project/R2OftAxM>Farmer's Delight</a></li>
 <li><a href=https://modrinth.com/project/uXXizFIs>FerriteCore</a></li>

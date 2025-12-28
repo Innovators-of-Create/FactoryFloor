@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "c6b9f94c8e0689f082a85a73440aadd41e704473150199694cfab50ec42c0e48"
+hash = "f9c7dcfd412cfc1f3590d67eb91456cf36450c3ebb20e4832b19a79cfff328f9"
 
 [[files]]
 file = "README.md"
-hash = "2fb36273c9125667031e8f19080dc004a558f6da0f8f63204d1f7ed0d062535f"
+hash = "8feb76acaceb145720d992b7c4d8817f6a2e52ce446f8b45bfbf228b9aa12b6d"
 
 [[files]]
 file = "icon.png"
@@ -300,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
-metafile = true
-
-[[files]]
-file = "mods/create-currency-shops.pw.toml"
-hash = "972e1b765161249d3ac23377bf4ab192d766c66ed21a9b09946beea84f5b8b4c"
 metafile = true
 
 [[files]]

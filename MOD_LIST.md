@@ -184,7 +184,6 @@
 <li><a href=https://modrinth.com/project/TlQAWQCY>Create: Cyber Goggles</a> - License: MIT Source: https://github.com/ForgeStove/CreateCyberGoogles</li>
 <li><a href=https://modrinth.com/project/dWU6xUnj>Create: Cardboarded Conveynience</a> - License: MIT Source: https://github.com/TakeruDavis/CreateCardboardedConveynience</li>
 <li><a href=https://modrinth.com/project/6FtRfnLg>Do a Barrel Roll</a> - License: GPL-3.0-only Source: https://github.com/enjarai/do-a-barrel-roll</li>
-<li><a href=https://modrinth.com/project/BdlILXeV>Create: Currency Shops</a> - License: MIT Source: https://github.com/flaulox/CreateCurrencyShops</li>
 <li><a href=https://modrinth.com/project/vvuO3ImH>Curios API</a> - License: LGPL-3.0-or-later Source: https://github.com/TheIllusiveC4/Curios</li>
 <li><a href=https://modrinth.com/project/R2OftAxM>Farmer's Delight</a> - License: MIT Source: https://github.com/vectorwing/FarmersDelight</li>
 <li><a href=https://modrinth.com/project/uXXizFIs>FerriteCore</a> - License: MIT Source: https://github.com/malte0811/FerriteCore</li>
