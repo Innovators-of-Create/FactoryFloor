@@ -1,6 +1,6 @@
 name = "Create: Factory Floor"
 author = "https://github.com/Innovators-of-Create"
-version = "1.0.12-dev"
+version = "1.0.13-dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
