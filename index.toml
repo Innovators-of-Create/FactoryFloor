@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "bd15009d7ce0c2dfe54945b975b4336d725ff161efd4f88b42162f1e4dbbf5b1"
+hash = "c64a21b704b04e9955b8083eebdb0a16f61663ae54502fd5ad29adb08b202dd8"
 
 [[files]]
 file = "README.md"
-hash = "b4772f4e644edf5b39ee89a2ceddac47206352ccdc373fc20def4cdf36c641a2"
+hash = "11d33706d4a5b1219ab9996b15e9997a5e426b675194c2c29b919e677ff917f8"
 
 [[files]]
 file = "eula.txt"
@@ -259,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
-metafile = true
-
-[[files]]
-file = "mods/create-better-motors.pw.toml"
-hash = "210fa3b6ac7cd9fa78e31528afc9fe59eca3a932ce013a6722a4de32ed252be6"
 metafile = true
 
 [[files]]
@@ -1237,11 +1232,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "53380b7ff8587946dfe2031191cbc2d254460053d190408f244207d7213e183d"
-metafile = true
-
-[[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "8a7cca23996635e2171cfdf4bef21c7674a979225011e2243b3ff09f168e88f6"
 metafile = true
@@ -1289,11 +1279,6 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
-metafile = true
-
-[[files]]
-file = "mods/trailtales-delight.pw.toml"
-hash = "bb39209a9ee057bf7606396c9c01f27ad980218b95d01d44089cadab1063a964"
 metafile = true
 
 [[files]]

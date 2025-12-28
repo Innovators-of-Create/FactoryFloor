@@ -33,7 +33,6 @@
 <li><a href=https://modrinth.com/project/hg77g4Pw>No Telemetry</a> - License: MPL-2.0 Source: https://github.com/kb-1000/no-telemetry</li>
 <li><a href=https://modrinth.com/project/nvQzSEkH>Jade 🔍</a> - License: CC-BY-NC-SA-4.0 Source: https://github.com/Snownee/Jade</li>
 <li><a href=https://modrinth.com/project/6YJgomwt>Create: Extra Gauges</a> - License: MIT Source: https://github.com/LIUKRAST/CreateExtraGauges</li>
-<li><a href=https://modrinth.com/project/PzouXFuY>Create: Better Motors</a> - License: MIT Source: https://github.com/Reggarfgod/Create_Better_Motors</li>
 <li><a href=https://modrinth.com/project/qRL8MwMB>Create: Delivery Director</a> - License: MIT Source: https://github.com/LIUKRAST/DeliveryDirector/</li>
 <li><a href=https://modrinth.com/project/JWGBpFUP>Create: Enchantment Industry</a> - License: LGPL-3.0-or-later Source: https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry</li>
 <li><a href=https://modrinth.com/project/kfqD1JRw>Visual Workbench</a> - License: MPL-2.0 Source: https://github.com/Fuzss/visualworkbench</li>
@@ -119,7 +118,6 @@
 <li><a href=https://modrinth.com/project/r4Knci2k>Create: Interiors</a> - License: GPL-3.0-or-later Source: https://github.com/sudolev/CreateInteriorsMod/</li>
 <li><a href=https://modrinth.com/project/BBhCMftF>Create: Curios Jetpack & Backtank</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/lOOpEntO>AttributeFix</a> - License: LGPL-2.1-only Source: https://github.com/Darkhax-Minecraft/AttributeFix</li>
-<li><a href=https://modrinth.com/project/Koee7vhY>Trail&Tales Delight</a> - License: MIT Source: https://github.com/Vzling/Trail-And-Tales-Delight/</li>
 <li><a href=https://modrinth.com/project/L1k78Y2G>Easy Auto Cycler</a> - License: MIT Source: https://github.com/Uncraftbar/Easy-Auto-Cycler</li>
 <li><a href=https://modrinth.com/project/jmHEp0Dv>Sorted Enchantments</a> - License: MIT Source: https://github.com/unilock/SortedEnchantments</li>
 <li><a href=https://modrinth.com/project/YsFycamt>Resource Pack Overrides</a> - License: MPL-2.0 Source: https://github.com/Fuzss/resourcepackoverrides</li>
@@ -211,7 +209,6 @@
 <li><a href=https://modrinth.com/project/8YcE8y4T>Ribbits</a> - License: LGPL-3.0-only Source: https://github.com/yungnickyoung/Ribbits</li>
 <li><a href=https://modrinth.com/project/qMxbM4BQ>Miner's Delight</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/SammySemicolon/MinersDelight</li>
 <li><a href=https://modrinth.com/project/u8OJnscr>Create: Fishery Industry</a> - License: MIT Source: https://github.com/adonis-baffin/CreateFisheryIndustry</li>
-<li><a href=https://modrinth.com/project/LTTvOp5L>Storage Delight</a> - License: MIT Source: https://github.com/axperty/storagedelight</li>
 <li><a href=https://modrinth.com/project/2x0ULgTj>Better Library</a> - License: MIT Source: https://github.com/Reggarfgod/Better_Lib</li>
 <li><a href=https://modrinth.com/project/Wq5SjeWM>FancyMenu</a> - License: LicenseRef-DSMSLv3 Source: https://github.com/Keksuccino/FancyMenu</li>
 <li><a href=https://modrinth.com/project/c7m1mi73>Packet Fixer</a> - License: MIT Source: https://github.com/TonimatasDEV/PacketSizeDoublerForge</li>
