@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
-hash = "e0bdf86eff243e9f475561fac9ff9bb92ba2fd41217fd10cc0d5d7e8a979bd3b"
+hash = "06c05c249eb7664f3d7bb65e0805fcce325ef7775a2ca553810be48dccf181d5"
 metafile = true
 
 [[files]]
