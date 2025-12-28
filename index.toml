@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "d1a518a267928dfd2c4938bc75ba1c163a4c703c1538056760405124cfe280f9"
+hash = "585af46e196f5c3198c1d2ef770d5941557236b105b24acf01568f38b8ed8b2b"
 
 [[files]]
 file = "README.md"
-hash = "f8c54798ce1a06d90858c10d7a4d280670810b8f07343143ab174ad7d1b5de01"
+hash = "ffb9cf498c85be42b0537493855ddc57298a79c693389ba98df1070bf8943ef8"
 
 [[files]]
 file = "icon.png"
@@ -1020,11 +1020,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "ecea6722c62bc3eadb6893d75ee941655b0f5378bd463519773f7aff0c368307"
 metafile = true
 
 [[files]]

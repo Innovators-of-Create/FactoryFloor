@@ -130,7 +130,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/knrLSB8n>Create: Deep Dark</a></li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a></li>
 <li><a href=https://modrinth.com/project/rtu7uERF>Barbeque's Delight [Forge/NeoForge]</a></li>
-<li><a href=https://modrinth.com/project/JNRr4jji>Palladium</a></li>
 <li><a href=https://modrinth.com/project/DFKpjlu6>Create: Synthetic Pressure</a></li>
 <li><a href=https://modrinth.com/project/WPE5gRs9>Create Confectionery</a></li>
 <li><a href=https://modrinth.com/project/xuDOzCLy>Jade Addons (Neo/Forge)</a></li>

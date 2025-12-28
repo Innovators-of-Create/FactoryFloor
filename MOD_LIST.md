@@ -91,7 +91,6 @@
 <li><a href=https://modrinth.com/project/knrLSB8n>Create: Deep Dark</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/ATDdrG1y>Create: Hypertubes</a> - License: Apache-2.0 Source: https://github.com/PedroRok/CreateHypertubes</li>
 <li><a href=https://modrinth.com/project/rtu7uERF>Barbeque's Delight [Forge/NeoForge]</a> - License: MIT Source: https://github.com/Minecraft-LightLand/BarbequesDelight</li>
-<li><a href=https://modrinth.com/project/JNRr4jji>Palladium</a> - License: GPL-3.0-only Source: https://github.com/ITsMrToad/PalladiumMod</li>
 <li><a href=https://modrinth.com/project/DFKpjlu6>Create: Synthetic Pressure</a> - License: MIT Source: null</li>
 <li><a href=https://modrinth.com/project/WPE5gRs9>Create Confectionery</a> - License: MIT Source: null</li>
 <li><a href=https://modrinth.com/project/xuDOzCLy>Jade Addons (Neo/Forge)</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/Snownee/JadeAddons</li>
