@@ -230,7 +230,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/hYykXjDp>Fzzy Config</a></li>
 <li><a href=https://modrinth.com/project/76TqKW7O>Create: Deepfried</a></li>
 <li><a href=https://modrinth.com/project/a1llHwl4>Copper Age Backport</a></li>
-<li><a href=https://modrinth.com/project/CYQ7VYrM>ToadLib</a></li>
 <li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a></li>
 <li><a href=https://modrinth.com/project/j4ARnQwY>Create: Blocks & Bogies</a></li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a></li>

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "7dfc229684a989444ba3fca28f7b2e6f09f01dd0bff19bf13246665dd33b7304"
+hash = "c6b9f94c8e0689f082a85a73440aadd41e704473150199694cfab50ec42c0e48"
 
 [[files]]
 file = "README.md"
-hash = "5fa83d195d59378a2bafa5bc752522bc50f747318dd6c8c311de889c9c309f28"
+hash = "2fb36273c9125667031e8f19080dc004a558f6da0f8f63204d1f7ed0d062535f"
 
 [[files]]
 file = "icon.png"
@@ -1305,11 +1305,6 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "fb3f7aff0e776639951d7e8efbf88224fdd2b65426667d59a531164794f78463"
 metafile = true
 
 [[files]]

@@ -191,7 +191,6 @@
 <li><a href=https://modrinth.com/project/hYykXjDp>Fzzy Config</a> - License: LicenseRef-TDL-M Source: https://github.com/fzzyhmstrs/fconfig</li>
 <li><a href=https://modrinth.com/project/76TqKW7O>Create: Deepfried</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/a1llHwl4>Copper Age Backport</a> - License: MIT Source: https://github.com/Smallinger/Copper-Age-Backport</li>
-<li><a href=https://modrinth.com/project/CYQ7VYrM>ToadLib</a> - License: GPL-3.0-or-later Source: https://github.com/ITsMrToad/ToadLib-mod/tree/1.19.4</li>
 <li><a href=https://modrinth.com/project/yRrY3XII>ExtraDelight</a> - License: CC-BY-NC-SA-4.0 Source: https://github.com/Lance5057/ExtraDelight</li>
 <li><a href=https://modrinth.com/project/j4ARnQwY>Create: Blocks & Bogies</a> - License: MIT Source: https://github.com/WeidosOddities/Blocks-And-Bogies</li>
 <li><a href=https://modrinth.com/project/Aqlf1Shp>Forgified Fabric API</a> - License: Apache-2.0 Source: https://github.com/Sinytra/ForgifiedFabricAPI</li>
