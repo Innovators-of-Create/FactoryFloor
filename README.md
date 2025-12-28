@@ -157,7 +157,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/Tl8ESrhX>TorchMaster</a></li>
 <li><a href=https://modrinth.com/project/r4Knci2k>Create: Interiors</a></li>
 <li><a href=https://modrinth.com/project/BBhCMftF>Create: Curios Jetpack & Backtank</a></li>
-<li><a href=https://modrinth.com/project/e9V6wFcR>Expanded Delight</a></li>
 <li><a href=https://modrinth.com/project/lOOpEntO>AttributeFix</a></li>
 <li><a href=https://modrinth.com/project/Koee7vhY>Trail&Tales Delight</a></li>
 <li><a href=https://modrinth.com/project/L1k78Y2G>Easy Auto Cycler</a></li>
@@ -249,7 +248,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/16DuAG4k>Create: Bitterballen</a></li>
 <li><a href=https://modrinth.com/project/TyCTlI4b>Sophisticated Backpacks</a></li>
 <li><a href=https://modrinth.com/project/8YcE8y4T>Ribbits</a></li>
-<li><a href=https://modrinth.com/project/emQ94xri>Veggies Delight (A Farmer's Delight Add-on)</a></li>
 <li><a href=https://modrinth.com/project/qMxbM4BQ>Miner's Delight</a></li>
 <li><a href=https://modrinth.com/project/u8OJnscr>Create: Fishery Industry</a></li>
 <li><a href=https://modrinth.com/project/LTTvOp5L>Storage Delight</a></li>

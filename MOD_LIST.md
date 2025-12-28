@@ -118,7 +118,6 @@
 <li><a href=https://modrinth.com/project/Tl8ESrhX>TorchMaster</a> - License: MIT Source: https://github.com/Xalcon/TorchMaster</li>
 <li><a href=https://modrinth.com/project/r4Knci2k>Create: Interiors</a> - License: GPL-3.0-or-later Source: https://github.com/sudolev/CreateInteriorsMod/</li>
 <li><a href=https://modrinth.com/project/BBhCMftF>Create: Curios Jetpack & Backtank</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
-<li><a href=https://modrinth.com/project/e9V6wFcR>Expanded Delight</a> - License: MIT Source: https://github.com/ianm1647/expandeddelight</li>
 <li><a href=https://modrinth.com/project/lOOpEntO>AttributeFix</a> - License: LGPL-2.1-only Source: https://github.com/Darkhax-Minecraft/AttributeFix</li>
 <li><a href=https://modrinth.com/project/Koee7vhY>Trail&Tales Delight</a> - License: MIT Source: https://github.com/Vzling/Trail-And-Tales-Delight/</li>
 <li><a href=https://modrinth.com/project/L1k78Y2G>Easy Auto Cycler</a> - License: MIT Source: https://github.com/Uncraftbar/Easy-Auto-Cycler</li>
@@ -210,7 +209,6 @@
 <li><a href=https://modrinth.com/project/16DuAG4k>Create: Bitterballen</a> - License: MIT Source: https://github.com/pyzpre/Create-Bicycles-Bitterballen</li>
 <li><a href=https://modrinth.com/project/TyCTlI4b>Sophisticated Backpacks</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/P3pp3rF1y/SophisticatedBackpacks</li>
 <li><a href=https://modrinth.com/project/8YcE8y4T>Ribbits</a> - License: LGPL-3.0-only Source: https://github.com/yungnickyoung/Ribbits</li>
-<li><a href=https://modrinth.com/project/emQ94xri>Veggies Delight (A Farmer's Delight Add-on)</a> - License: MIT Source: https://github.com/MehdiNoui/VeggiesDelight</li>
 <li><a href=https://modrinth.com/project/qMxbM4BQ>Miner's Delight</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/SammySemicolon/MinersDelight</li>
 <li><a href=https://modrinth.com/project/u8OJnscr>Create: Fishery Industry</a> - License: MIT Source: https://github.com/adonis-baffin/CreateFisheryIndustry</li>
 <li><a href=https://modrinth.com/project/LTTvOp5L>Storage Delight</a> - License: MIT Source: https://github.com/axperty/storagedelight</li>

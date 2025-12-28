@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "a33ad8419c53ff0f2c56861b682b76d9b46fa77f21cfd4f3f14f764229bdadef"
+hash = "bd15009d7ce0c2dfe54945b975b4336d725ff161efd4f88b42162f1e4dbbf5b1"
 
 [[files]]
 file = "README.md"
-hash = "844a994d1b44fcf1a9641fe0b684afbc159f9a3d6c2713ee9f04c95c15e588f4"
+hash = "b4772f4e644edf5b39ee89a2ceddac47206352ccdc373fc20def4cdf36c641a2"
 
 [[files]]
 file = "eula.txt"
@@ -692,11 +692,6 @@ hash = "cd77d7f479a925f2c5147a9e4103a7c35c19292bf3a3144a59ecbb2905ceba62"
 metafile = true
 
 [[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
@@ -1317,11 +1312,6 @@ hash = "459592f2e228c5c4d476adfc8ed3da8c8cc81bd4d9cb887574931ec954f61b6d"
 metafile = true
 
 [[files]]
-file = "mods/veggies-delight.pw.toml"
-hash = "b41a396b9fa2f36b63e50a22916997e0e7bd37e65d925d5a976562449d53d6fe"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
@@ -1419,6 +1409,10 @@ metafile = true
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "d88dacad6b166ce9766867b4224aa175e55cfd75caad6a77f698abee8fec9d11"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "318746bf71332cda2d83f5e2429acdf0e3d85307eeafe83b46a1bb19e9ca4fa7"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
