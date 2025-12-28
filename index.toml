@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "9c471419e424cb719eafd76f08ca8cdc6456b3a461cbd921213a085bda57f6bd"
+hash = "7dfc229684a989444ba3fca28f7b2e6f09f01dd0bff19bf13246665dd33b7304"
 
 [[files]]
 file = "README.md"
-hash = "0e02f5e4c9427e77a5cbdd3dff82dcb5c33d08748a9af23b9dbc09c972b9fb31"
+hash = "5fa83d195d59378a2bafa5bc752522bc50f747318dd6c8c311de889c9c309f28"
 
 [[files]]
 file = "icon.png"
@@ -570,11 +570,6 @@ metafile = true
 [[files]]
 file = "mods/delivery-director.pw.toml"
 hash = "6698c567fce253cdc646bff69e34b0a1d551d51f73799603159b744386737eae"
-metafile = true
-
-[[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "368969d82c72b90e1f9a9ff70007d9a7b2fa0e2b075e1f07221badc562ea03e9"
 metafile = true
 
 [[files]]

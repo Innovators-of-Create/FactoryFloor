@@ -160,7 +160,6 @@
 <li><a href=https://modrinth.com/project/Ov2r3aVY>Xaero Train Map</a> - License: MIT Source: https://github.com/1foxy2/xaero-train-map</li>
 <li><a href=https://modrinth.com/project/9k1pAsfR>Create: Integrated Farming</a> - License: LGPL-3.0-only Source: https://github.com/DragonsPlusMinecraft/CreateIntegratedFarming</li>
 <li><a href=https://modrinth.com/project/SaCpeal4>Comforts</a> - License: LGPL-3.0-or-later Source: https://github.com/illusivesoulworks/comforts</li>
-<li><a href=https://modrinth.com/project/V92cR3aK>Dimensional Threading Reforked</a> - License: LGPL-3.0-or-later Source: https://github.com/SrRapero720/DimensionalThreading-Reforked</li>
 <li><a href=https://modrinth.com/project/g96Z4WVZ>BadOptimizations</a> - License: MIT Source: https://github.com/ItsThosea/BadOpitmizations</li>
 <li><a href=https://modrinth.com/project/15fFZ3f4>Create: Framed</a> - License: MIT Source: https://github.com/DakotaPride/create-framed</li>
 <li><a href=https://modrinth.com/project/kkmrDlKT>TerraBlender</a> - License: LGPL-3.0-only Source: https://github.com/Glitchfiend/TerraBlender/</li>

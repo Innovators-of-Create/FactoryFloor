@@ -199,7 +199,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/Ov2r3aVY>Xaero Train Map</a></li>
 <li><a href=https://modrinth.com/project/9k1pAsfR>Create: Integrated Farming</a></li>
 <li><a href=https://modrinth.com/project/SaCpeal4>Comforts</a></li>
-<li><a href=https://modrinth.com/project/V92cR3aK>Dimensional Threading Reforked</a></li>
 <li><a href=https://modrinth.com/project/g96Z4WVZ>BadOptimizations</a></li>
 <li><a href=https://modrinth.com/project/15fFZ3f4>Create: Framed</a></li>
 <li><a href=https://modrinth.com/project/kkmrDlKT>TerraBlender</a></li>
