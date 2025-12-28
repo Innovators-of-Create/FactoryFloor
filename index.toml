@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "MOD_LIST.md"
-hash = "585af46e196f5c3198c1d2ef770d5941557236b105b24acf01568f38b8ed8b2b"
+hash = "1528b0b0385035b8b6bd44fd07b445a948d5221c0acecec1e18c2d7fdae8fd8f"
 
 [[files]]
 file = "README.md"
-hash = "ffb9cf498c85be42b0537493855ddc57298a79c693389ba98df1070bf8943ef8"
+hash = "d6d868e136e18d28ccf955f459af973f0c22f6eb4cc13b193a2b6aa183705ff5"
 
 [[files]]
 file = "icon.png"
@@ -178,11 +178,6 @@ hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds.pw.toml"
-hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
-metafile = true
-
-[[files]]
 file = "mods/chloride.pw.toml"
 hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
 metafile = true
@@ -240,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
-metafile = true
-
-[[files]]
-file = "mods/crabbers-delight.pw.toml"
-hash = "b0a5c1780bde0bbe0376ad72e617be480106a01b695ea5d5216dddbe1319f5bd"
 metafile = true
 
 [[files]]

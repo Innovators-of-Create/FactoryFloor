@@ -55,7 +55,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/g1eaCZgs>Air Hop</a></li>
 <li><a href=https://modrinth.com/project/N9QToVpw>Create: Ultimate Factory</a></li>
 <li><a href=https://modrinth.com/project/Jdbbtt0i>Create: Numismatics</a></li>
-<li><a href=https://modrinth.com/project/gBGdVBJy>Crabber's Delight</a></li>
 <li><a href=https://modrinth.com/project/uuVy6k1s>Create: Molten Vents</a></li>
 <li><a href=https://modrinth.com/project/YL57xq9U>Iris Shaders</a></li>
 <li><a href=https://modrinth.com/project/6vtFbyaJ>Sophisticated Storage in Motion</a></li>
@@ -148,7 +147,6 @@ So what are you waiting for? Jump into the game and go build a factory!
 <li><a href=https://modrinth.com/project/1Ro7m06l>Titanium</a></li>
 <li><a href=https://modrinth.com/project/QdG47OkI>Model Gap Fix</a></li>
 <li><a href=https://modrinth.com/project/houIxdGF>Shut Up GL Error</a></li>
-<li><a href=https://modrinth.com/project/3azQ6p0W>Cherished Worlds</a></li>
 <li><a href=https://modrinth.com/project/rd9rKuJT>Disconnect Packet Fix</a></li>
 <li><a href=https://modrinth.com/project/ZvaHbwoZ>Better Ping Display [Forge/NeoForge]</a></li>
 <li><a href=https://modrinth.com/project/zv7fYVyQ>Detected setBlock Be Gone</a></li>

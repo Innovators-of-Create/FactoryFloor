@@ -16,7 +16,6 @@
 <li><a href=https://modrinth.com/project/g1eaCZgs>Air Hop</a> - License: MPL-2.0 Source: https://github.com/Fuzss/airhop</li>
 <li><a href=https://modrinth.com/project/N9QToVpw>Create: Ultimate Factory</a> - License: LicenseRef-All-Rights-Reserved Source: null</li>
 <li><a href=https://modrinth.com/project/Jdbbtt0i>Create: Numismatics</a> - License: LGPL-3.0-only Source: https://github.com/Layers-of-Railways/CreateNumismatics</li>
-<li><a href=https://modrinth.com/project/gBGdVBJy>Crabber's Delight</a> - License: MIT Source: https://github.com/AlabasterLeking/Crabbers-Delight</li>
 <li><a href=https://modrinth.com/project/uuVy6k1s>Create: Molten Vents</a> - License: MIT Source: https://github.com/Apothicon02/Create-Molten-Vents</li>
 <li><a href=https://modrinth.com/project/YL57xq9U>Iris Shaders</a> - License: LGPL-3.0-only Source: https://github.com/IrisShaders/Iris</li>
 <li><a href=https://modrinth.com/project/6vtFbyaJ>Sophisticated Storage in Motion</a> - License: LicenseRef-All-Rights-Reserved Source: https://github.com/P3pp3rF1y/SophisticatedStorageInMotion</li>
@@ -109,7 +108,6 @@
 <li><a href=https://modrinth.com/project/1Ro7m06l>Titanium</a> - License: MIT Source: https://github.com/InnovativeOnlineIndustries/Titanium</li>
 <li><a href=https://modrinth.com/project/QdG47OkI>Model Gap Fix</a> - License: GPL-3.0-only Source: https://github.com/MehVahdJukaar/modefix-multi</li>
 <li><a href=https://modrinth.com/project/houIxdGF>Shut Up GL Error</a> - License: MIT Source: https://github.com/JamCoreModding/shut-up-gl-error</li>
-<li><a href=https://modrinth.com/project/3azQ6p0W>Cherished Worlds</a> - License: LGPL-3.0-or-later Source: https://github.com/illusivesoulworks/cherishedworlds/</li>
 <li><a href=https://modrinth.com/project/rd9rKuJT>Disconnect Packet Fix</a> - License: MIT Source: https://github.com/ascpixi/disconnect-packet-fix</li>
 <li><a href=https://modrinth.com/project/ZvaHbwoZ>Better Ping Display [Forge/NeoForge]</a> - License: MIT Source: https://github.com/vladmarica/better-ping-display</li>
 <li><a href=https://modrinth.com/project/zv7fYVyQ>Detected setBlock Be Gone</a> - License: CC-BY-ND-4.0 Source: https://github.com/CapezOnMyBack/DSBG</li>
